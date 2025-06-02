@@ -3,7 +3,7 @@
 ## Answer for qn 1: LRU_Cache.cpp
 ## Answer for qn 2: Hash_Map.cpp
 ## Answer for qn 3 in C++ Language: book_review folder
-   #How to compile and run: 
-   #g++ -std=c++17 main.cpp -o book_app
-   #./book_app
+   ## How to compile and run in terminal: 
+   # Line 1: g++ -std=c++17 main.cpp -o book_app
+   # Line 2: ./book_app
 
