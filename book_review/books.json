@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "ABCD",
+        "author": "Robin",
+        "description": "XYZ",
+        "rating": 4.7
+    },
+    {
+        "id": 2,
+        "title": "EFGH",
+        "author": "Rohan",
+        "description": "LMN",
+        "rating": 4.5
+    }
+]
